@@ -11,4 +11,4 @@ Lab 6: IDEs-Code::Blocks and QtCreator.
 
 Lab 7: Make.
 
-Lab 8: 
+Lab 8: Code Checking-Valgrind and Address Sanitizer  
