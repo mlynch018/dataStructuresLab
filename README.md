@@ -16,3 +16,7 @@ Lab 8: Code Checking-Valgrind and Address Sanitizer
 Lab 9: Unit Testing with a makefile
 
 Lab 10: Code Profiling with Callgrind
+
+Lab 11: Regular Expressions
+
+Lab 12: Qt Programming
