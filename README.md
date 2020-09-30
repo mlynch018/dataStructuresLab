@@ -9,3 +9,6 @@ Lab 5: Bash Scripting.
 
 Lab 6: IDEs-Code::Blocks and QtCreator.
 
+Lab 7: Make.
+
+Lab 8: 
