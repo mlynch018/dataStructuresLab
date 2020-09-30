@@ -20,3 +20,5 @@ Lab 10: Code Profiling with Callgrind
 Lab 11: Regular Expressions
 
 Lab 12: Qt Programming
+
+Project 2: Four Function Calculator Using Qt
